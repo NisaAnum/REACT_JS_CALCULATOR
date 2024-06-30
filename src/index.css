@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.calc-button {
+    @apply flex bg-gray-600 font-mono border text-white border-black items-center justify-center text-2xl font-semibold w-full;
+}
+
+.calc-button:hover {
+   border-color : gainsboro;
+   color: black;
+                    
+}
