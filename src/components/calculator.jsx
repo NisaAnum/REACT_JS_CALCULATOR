@@ -166,6 +166,8 @@ function Calculator() {
         </button>
       </div>
       </div>
+      <p className='text-md mt-3 text-black font-serif'>Coded and Designed by</p>
+      <p className='text-md text-black font-semibold font-serif'>Anum</p>
     </div>
   );
 }
